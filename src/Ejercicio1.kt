@@ -31,4 +31,5 @@ fun calcularNota(): Triple<String, Double, Int> {
 
     }
     return Triple(mejorAlumno, mejorPromedio, cantidadSuspendidos)
+
 }
